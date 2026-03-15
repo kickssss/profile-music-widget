@@ -23,7 +23,6 @@ jobs:
         uses: daeun503/profile-music-widget@v1
         with:
           playlist_id: "PLHx7aaR3gT6tRf9d7Spo23mj1o-R5X0OJ"
-          theme: "default"
 
       - name: Deploy dist to output branch
         uses: crazy-max/ghaction-github-pages@v4
